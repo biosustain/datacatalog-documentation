@@ -1,0 +1,14 @@
+site_name: Data Catalog User Guide
+nav:
+  - Home: index.md
+  - Logging in: login.md
+  - Get started: usage.md
+  - DMP: dmp.md
+theme: readthedocs
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables
+extra_css:
+  - stylesheets/extra.css

@@ -1,0 +1,13 @@
+img {
+    height: auto;
+    width: auto;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    padding: 4px;
+    background-color: #fff;
+}
+.md-typeset .admonition,
+.md-typeset details {
+  border-width: 0;
+  border-left-width: 1px;
+}

@@ -1,0 +1,53 @@
+## Using the Data Catalog
+    *   **Creating a Project:**
+        *   Guide users through the process of setting up a new project in the Data Catalog, including how to:
+            *   Provide basic project information (e.g., title, description, funding).
+            *   Add collaborators and manage project roles (e.g., PI, co-PI). 
+            *   Answer administrative questions (e.g., patent potential, compliance issues).
+            *   Complete and attach a data management plan (DMP).
+            *   Link to relevant external resources (e.g., DTUDOCX project, Benchling project folder).
+        *   **Searching and Browsing Projects:**
+            *   Explain how to find existing projects:
+                *   Using keywords and filters.
+                *   By research group or department.
+                *   By data type or method used.
+            *   Detail how to view project information:
+                *   Metadata.
+                *   Datasets.
+                *   Associated publications.
+    *   **Working with Data:**
+        *   **Adding Data to a Project:**
+            *   Guide users on how to upload and register data in the Data Catalog, including different options for:
+                *   Data types.
+                *   Data formats.
+                *   File sizes.
+                *   Storage locations (e.g., local storage, external repositories).
+        *   **Metadata:**
+            *   Explain the importance of providing comprehensive metadata for each dataset:
+                *   Using the Data Dictionary as a guide. 
+                *   Following FAIR principles (Findable, Accessible, Interoperable, Reusable).
+        *   **Data Access and Sharing:** 
+            *   Provide instructions on:
+                *   Setting data access levels (e.g., private, group, public). 
+                *   Managing data sharing permissions for different users or groups.
+                *   Understanding the implications of GDPR and other compliance requirements. 
+## Advanced Features:
+    *   **Electronic Lab Notebook (ELN) Integration:**
+        *   Explain how the Data Catalog integrates with Benchling: 
+            *   Linking Benchling project folders to projects in the Data Catalog. 
+            *   Importing metadata from Benchling. 
+    *   **Reporting:**
+        *   Detail the types of reports available:
+            *   Project progress reports. 
+            *   Data usage reports.
+            *   Compliance reports. 
+        *   Explain how to generate and customize reports.
+    *   **System Integration:** 
+        *   Describe future integrations with other systems, such as DTU Orbit, DTU Data, and HPC.  
+        *   This information is described as future possibilities, so you may wish to independently verify the current status of these integrations. 
+## Help and Support:
+    *   Provide contact information for support:
+        *   Help desk.
+        *   Data Steward. 
+        *   RDM Team. 
+    *   Include links to relevant documentation and training materials. 
